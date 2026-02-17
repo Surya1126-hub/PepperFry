@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+  <Properties>
+    <!-- Absolute path to your logs folder -->
+    <Property name="basePath">C:\Users\2461930\Downloads\Displaybookshelves 1\Displaybookshelves\logs\</Property>
+    <Property name="log-pattern">%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n</Property>
+  </Properties>
+
+  <Appenders>
+    <!-- Console output -->
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="${log-pattern}"/>
+    </Console>
+
+    <!-- Rolling file output -->
+    <RollingFile name="File"
+                 fileName="${basePath}/automation.log"
+                 filePattern="${basePath}/automation-%d{yyyy-MM-dd}-%i.log.gz">
+      <PatternLayout pattern="${log-pattern}"/>
+      <Policies>
+        <TimeBasedTriggeringPolicy/>
+        <SizeBasedTriggeringPolicy size="5MB"/>
+      </Policies>
+      <DefaultRolloverStrategy max="10"/>
+    </RollingFile>
+  </Appenders>
+
+  <Loggers>
+    <!-- Root logger -->
+    <Root level="DEBUG">
+      <!--<AppenderRef ref="Console"/>-->
+      <AppenderRef ref="File"/>
+    </Root>
+  </Loggers>
+</Configuration>

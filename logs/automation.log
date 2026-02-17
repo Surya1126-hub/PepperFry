@@ -1,0 +1,549 @@
+2026-02-17 10:13:03 INFO  Hooks:22 - >>> Hook: Launching Browser...
+2026-02-17 10:13:03 INFO  BaseClass:22 - Initializing WebDriver for browser: edge
+2026-02-17 10:13:06 DEBUG BaseClass:35 - EdgeDriver initialized
+2026-02-17 10:13:07 INFO  BaseClass:46 - Driver window set to 1920x1080 and implicit wait set to 10 seconds
+2026-02-17 10:13:07 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:13:07 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:13:07 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:13:07 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:13:07 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:13:07 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:13:14 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:13:14 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:13:24 ERROR Hooks:39 - Scenario 'Filter and select bookshelves' failed. Capturing screenshot...
+2026-02-17 10:13:24 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:13:25 DEBUG Hooks:43 - Screenshot attached to scenario report
+2026-02-17 10:13:25 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:13:25 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:13:25 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:13:25 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:13:25 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:13:27 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:13:27 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:13:27 INFO  BookShelves:47 - Navigating to Gift Cards section
+2026-02-17 10:13:27 DEBUG BookShelves:51 - Gift Cards element double-clicked
+2026-02-17 10:13:27 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:13:28 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:13:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:13:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-17 10:13:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:13:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:13:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:13:30 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:13:30 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:13:30 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:13:30 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:13:30 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:13:30 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:13:30 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:13:30 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:13:30 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:13:30 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:13:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:13:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:13:34 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:13:34 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:13:34 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:13:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:13:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:13:34 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:13:34 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:13:34 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:13:34 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:13:34 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:13:34 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:13:34 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:13:34 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:13:34 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:13:37 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:13:37 INFO  Hooks:45 - Scenario 'Retrieve Luxury sub-menu items' passed successfully
+2026-02-17 10:13:37 INFO  Hooks:45 - Scenario 'Retrieve Luxury sub-menu items' passed successfully
+2026-02-17 10:13:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:13:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:13:38 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:13:38 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:13:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:13:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:13:38 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:13:38 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:13:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:13:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:13:38 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:13:38 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:13:38 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:13:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:13:38 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:13:39 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:13:39 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:13:39 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:13:39 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:13:39 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:13:39 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:13:39 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:13:39 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:13:39 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:13:39 INFO  Hooks:45 - Scenario 'Retrieve Luxury sub-menu items' passed successfully
+2026-02-17 10:13:39 INFO  Hooks:31 - >>> Hook: Closing Browser...
+2026-02-17 10:13:39 INFO  BaseClass:56 - Quitting WebDriver
+2026-02-17 10:13:43 DEBUG BaseClass:59 - WebDriver set to null after quit
+2026-02-17 10:18:26 INFO  Hooks:22 - >>> Hook: Launching Browser...
+2026-02-17 10:18:26 INFO  BaseClass:22 - Initializing WebDriver for browser: edge
+2026-02-17 10:18:29 DEBUG BaseClass:35 - EdgeDriver initialized
+2026-02-17 10:18:29 INFO  BaseClass:46 - Driver window set to 1920x1080 and implicit wait set to 10 seconds
+2026-02-17 10:18:29 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:18:29 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:18:29 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:18:29 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:18:29 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:18:29 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:18:33 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:18:34 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:18:35 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:18:35 INFO  BookShelves:209 - Clicking More Filters option
+2026-02-17 10:18:35 DEBUG BookShelves:213 - More Filters clicked
+2026-02-17 10:18:35 INFO  BookShelves:217 - Expanding Price filter section
+2026-02-17 10:18:35 DEBUG BookShelves:219 - Price filter section expanded
+2026-02-17 10:18:35 INFO  BookShelves:202 - Entering max price filter value: 15000
+2026-02-17 10:18:36 DEBUG BookShelves:206 - Max price input set to 15000
+2026-02-17 10:18:36 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:18:36 INFO  BookShelves:223 - Expanding Material filter section
+2026-02-17 10:18:36 DEBUG BookShelves:225 - Material filter section expanded
+2026-02-17 10:18:36 INFO  BookShelves:191 - Selecting Engineered Wood filter if not already selected
+2026-02-17 10:18:36 DEBUG BookShelves:195 - Engineered Wood filter selected
+2026-02-17 10:18:36 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:18:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:18:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:18:37 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:18:37 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:18:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:18:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:18:37 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:18:37 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:18:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:18:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:18:37 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:18:37 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:18:37 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:18:37 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:18:37 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:18:37 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:18:37 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:18:37 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:18:37 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:18:39 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:18:39 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:18:39 INFO  BookShelves:47 - Navigating to Gift Cards section
+2026-02-17 10:18:39 DEBUG BookShelves:51 - Gift Cards element double-clicked
+2026-02-17 10:18:39 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:18:40 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:18:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:18:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-17 10:18:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:18:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:18:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:18:41 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:18:41 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:18:41 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:18:41 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:18:41 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:18:41 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:18:41 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:18:41 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:18:41 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:18:41 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:18:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:18:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:18:45 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:18:45 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:18:45 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:18:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:18:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:18:45 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:18:45 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:18:45 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:18:45 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:18:45 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:18:45 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:18:45 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:18:45 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:18:45 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:18:47 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:18:47 INFO  Hooks:45 - Scenario 'Retrieve Luxury sub-menu items' passed successfully
+2026-02-17 10:18:47 INFO  Hooks:45 - Scenario 'Retrieve Luxury sub-menu items' passed successfully
+2026-02-17 10:18:48 ERROR Hooks:39 - Scenario 'Retrieve Luxury sub-menu items' failed. Capturing screenshot...
+2026-02-17 10:18:48 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:18:48 DEBUG Hooks:43 - Screenshot attached to scenario report
+2026-02-17 10:18:48 INFO  Hooks:31 - >>> Hook: Closing Browser...
+2026-02-17 10:18:48 INFO  BaseClass:56 - Quitting WebDriver
+2026-02-17 10:18:53 DEBUG BaseClass:59 - WebDriver set to null after quit
+2026-02-17 10:19:29 INFO  Hooks:22 - >>> Hook: Launching Browser...
+2026-02-17 10:19:29 INFO  BaseClass:22 - Initializing WebDriver for browser: edge
+2026-02-17 10:19:31 DEBUG BaseClass:35 - EdgeDriver initialized
+2026-02-17 10:19:31 INFO  BaseClass:46 - Driver window set to 1920x1080 and implicit wait set to 10 seconds
+2026-02-17 10:19:31 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:19:32 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:19:32 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:19:32 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:19:32 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:19:32 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:19:36 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:19:36 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:19:38 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:19:38 INFO  BookShelves:209 - Clicking More Filters option
+2026-02-17 10:19:39 DEBUG BookShelves:213 - More Filters clicked
+2026-02-17 10:19:39 INFO  BookShelves:217 - Expanding Price filter section
+2026-02-17 10:19:39 DEBUG BookShelves:219 - Price filter section expanded
+2026-02-17 10:19:39 INFO  BookShelves:202 - Entering max price filter value: 15000
+2026-02-17 10:19:40 DEBUG BookShelves:206 - Max price input set to 15000
+2026-02-17 10:19:40 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:19:40 INFO  BookShelves:223 - Expanding Material filter section
+2026-02-17 10:19:40 DEBUG BookShelves:225 - Material filter section expanded
+2026-02-17 10:19:40 INFO  BookShelves:191 - Selecting Engineered Wood filter if not already selected
+2026-02-17 10:19:40 DEBUG BookShelves:195 - Engineered Wood filter selected
+2026-02-17 10:19:40 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:19:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:19:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:19:41 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:19:41 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:19:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:19:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:19:41 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:19:41 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:19:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:19:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:19:41 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:19:41 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:19:41 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:19:41 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:19:41 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:19:41 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:19:41 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:19:41 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:19:41 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:19:43 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:19:43 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:19:43 INFO  BookShelves:47 - Navigating to Gift Cards section
+2026-02-17 10:19:43 DEBUG BookShelves:51 - Gift Cards element double-clicked
+2026-02-17 10:19:43 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:19:44 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:19:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:19:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-17 10:19:44 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:19:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:19:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:19:45 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:19:45 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:19:45 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:19:45 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:19:45 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:19:45 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:19:45 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:19:45 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:19:45 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:19:45 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:19:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:19:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:19:49 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:19:49 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:19:49 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:19:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:19:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:19:49 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:19:49 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:19:49 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:19:49 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:19:49 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:19:49 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:19:49 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:19:49 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:19:49 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:19:52 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:19:52 INFO  Hooks:45 - Scenario 'Retrieve Luxury sub-menu items' passed successfully
+2026-02-17 10:19:52 INFO  Hooks:45 - Scenario 'Retrieve Luxury sub-menu items' passed successfully
+2026-02-17 10:19:52 ERROR Hooks:39 - Scenario 'Retrieve Luxury sub-menu items' failed. Capturing screenshot...
+2026-02-17 10:19:52 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:19:53 DEBUG Hooks:43 - Screenshot attached to scenario report
+2026-02-17 10:19:53 INFO  Hooks:31 - >>> Hook: Closing Browser...
+2026-02-17 10:19:53 INFO  BaseClass:56 - Quitting WebDriver
+2026-02-17 10:19:56 DEBUG BaseClass:59 - WebDriver set to null after quit
+2026-02-17 10:22:37 INFO  Hooks:22 - >>> Hook: Launching Browser...
+2026-02-17 10:22:37 INFO  BaseClass:22 - Initializing WebDriver for browser: edge
+2026-02-17 10:22:40 DEBUG BaseClass:35 - EdgeDriver initialized
+2026-02-17 10:22:40 INFO  BaseClass:46 - Driver window set to 1920x1080 and implicit wait set to 10 seconds
+2026-02-17 10:22:40 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:22:41 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:22:41 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:22:41 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:22:41 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:22:41 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:22:44 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:22:44 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:22:46 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:22:46 INFO  BookShelves:209 - Clicking More Filters option
+2026-02-17 10:22:46 DEBUG BookShelves:213 - More Filters clicked
+2026-02-17 10:22:46 INFO  BookShelves:217 - Expanding Price filter section
+2026-02-17 10:22:46 DEBUG BookShelves:219 - Price filter section expanded
+2026-02-17 10:22:46 INFO  BookShelves:202 - Entering max price filter value: 15000
+2026-02-17 10:22:47 DEBUG BookShelves:206 - Max price input set to 15000
+2026-02-17 10:22:47 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:22:47 INFO  BookShelves:223 - Expanding Material filter section
+2026-02-17 10:22:47 DEBUG BookShelves:225 - Material filter section expanded
+2026-02-17 10:22:47 INFO  BookShelves:191 - Selecting Engineered Wood filter if not already selected
+2026-02-17 10:22:47 DEBUG BookShelves:195 - Engineered Wood filter selected
+2026-02-17 10:22:47 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:22:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:47 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:48 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:22:48 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:22:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:48 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:22:48 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:22:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:48 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:48 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:22:48 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:22:48 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:22:48 INFO  Hooks:45 - Scenario 'Filter and select bookshelves' passed successfully
+2026-02-17 10:22:48 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:22:48 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:22:48 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:22:48 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:22:48 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:22:50 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:22:50 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:22:50 INFO  BookShelves:47 - Navigating to Gift Cards section
+2026-02-17 10:22:50 DEBUG BookShelves:51 - Gift Cards element double-clicked
+2026-02-17 10:22:50 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:22:51 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:22:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2026-02-17 10:22:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:52 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:52 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:52 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:22:52 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:22:52 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:22:52 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:22:52 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:22:52 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:22:52 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:22:52 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:22:52 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:22:52 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:22:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:55 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:22:55 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:22:55 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:22:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:55 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:22:55 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:22:55 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet2.xml'
+2026-02-17 10:22:55 INFO  Hooks:45 - Scenario 'Validate error messages for invalid gift card details' passed successfully
+2026-02-17 10:22:55 DEBUG BaseClass:50 - Returning WebDriver instance
+2026-02-17 10:22:55 INFO  HomePage:24 - HomePage object initialized
+2026-02-17 10:22:55 INFO  BookShelves:41 - BookShelves page object initialized
+2026-02-17 10:22:55 INFO  GiftCards:43 - GiftCards page object initialized
+2026-02-17 10:22:55 INFO  PepperfrySteps:38 - PepperfrySteps initialized with WebDriver
+2026-02-17 10:22:57 INFO  PepperfrySteps:44 - The pepper webpage was opened
+2026-02-17 10:22:57 INFO  Hooks:45 - Scenario 'Retrieve Luxury sub-menu items' passed successfully
+2026-02-17 10:22:57 INFO  Hooks:45 - Scenario 'Retrieve Luxury sub-menu items' passed successfully
+2026-02-17 10:22:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:58 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:22:58 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:22:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:58 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:22:58 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:22:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:58 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:22:58 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:22:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2026-02-17 10:22:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2026-02-17 10:22:58 DEBUG ZipPackage:676 - Save content types part
+2026-02-17 10:22:58 DEBUG ZipPackage:683 - Save package relationships
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'docProps/app.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'docProps/core.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/sharedStrings.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/styles.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/theme/theme1.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/workbook.xml'
+2026-02-17 10:22:58 DEBUG ZipPackage:700 - Save part 'xl/worksheets/sheet1.xml'
+2026-02-17 10:22:58 INFO  Hooks:45 - Scenario 'Retrieve Luxury sub-menu items' passed successfully
+2026-02-17 10:22:58 INFO  Hooks:31 - >>> Hook: Closing Browser...
+2026-02-17 10:22:58 INFO  BaseClass:56 - Quitting WebDriver
+2026-02-17 10:23:02 DEBUG BaseClass:59 - WebDriver set to null after quit
